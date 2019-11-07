@@ -1,0 +1,11 @@
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\obj\Debug\XO.vbprojResolveAssemblyReference.cache
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\obj\Debug\XO.Resources.resources
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\obj\Debug\XO.vbproj.GenerateResource.Cache
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\obj\Debug\XO.vbproj.CoreCompileInputs.cache
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\bin\Debug\XO.exe.config
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\bin\Debug\XO.exe
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\bin\Debug\XO.pdb
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\bin\Debug\XO.xml
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\obj\Debug\XO.exe
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\obj\Debug\XO.xml
+C:\Users\Felix.Mcdonagh\source\repos\XO\XO\obj\Debug\XO.pdb
